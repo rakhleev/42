@@ -22,8 +22,9 @@ title: Just random things. Something might be useful tho.
 email: rakhleev92@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I welcome you stranger I hope u like my website. Im not really sure what Im gonna post here tho, but def something cool.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+domain: "rakhleev.github.io"
+baseurl: "/42" # the subpath of your site, e.g. /blog
+url: "https://rakhleev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Raheem01f
 github_username:  rakhleev
 
