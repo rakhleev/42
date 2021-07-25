@@ -44,10 +44,10 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "/42" # the subpath of your site, e.g. /blog
-url: "https://rakhleev.github.io/" # the base hostname & protocol for your site
+baseurl: /42 # the subpath of your site, e.g. /blog
+url: https://rakhleev.github.io # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+language: ru
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
