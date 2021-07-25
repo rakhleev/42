@@ -1,4 +1,5 @@
-yout: post                                                              
+---
+layout: post                                                              
 title: Мобильный кодинг с Termux                                   
 subtitle: vim, git, gcc на смартфон    
 description: Установка и настройка Termux
