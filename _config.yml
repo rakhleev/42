@@ -12,10 +12,10 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
+    #  - title: About
+    #url: /about
+    #  - title: Contact
+    #  url: /contact
   - title: Feed
     url: /feed.xml
 email: rakhleev92@gmail.com
