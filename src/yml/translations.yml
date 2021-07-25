@@ -1,0 +1,42 @@
+translations:
+  text:
+    new_post: "Новый пост"
+    see_also: "Также"
+    search: "Поиск"
+    author: "Автор"
+    share: "Поделиться"
+    comments: "Комментарии"
+  button:
+    read_now: "Читать"
+    share_on_twitter: "Поделиться в Twitter"
+    share_on_facebook: "Поделиться в  Facebook"
+  pagination:
+    page: "Страница"
+    of: "of"
+    next_page: "Следующая страница"
+    next_post: "Предыдущая страница"
+  recommendation:
+    text: "Why don't you read something next?"
+    back_btn: "Наверх"
+  error_404:
+    title: "Страница не найдена :("
+    message: "I'm sorry. We couldn't find the page you are looking for."
+    image_alt: "404 - Страница не найдена"
+  contact:
+    title: "Talk to me"
+    subject: "New contact!"
+    submit_btn: "Отправить"
+    placeholders:
+      name: "Ваше имя"
+      email: "Ваш e-mail"
+      message: "Your message"
+    errors:
+      locale: "ru"
+      empty_name: "Name is required"
+      empty_email: "Email is required"
+      invalid_email: "Email is invalid"
+      empty_message: "Message is required"
+    after_send:
+      title: "Message sent!"
+      message: "Thank you for sending me a message. I'm going to answer ASAP."
+
