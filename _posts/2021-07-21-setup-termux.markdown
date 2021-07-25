@@ -1,8 +1,14 @@
 ---
+<<<<<<< HEAD
+layout: post                                                              
+title: Мобильный кодинг с Termux                                   
+subtitle: vim, git, gcc на смартфон    
+=======
 date: 2021-07-24 12:00:00
 layout: post
 title: Мобильный кодинг с Termux
 subtitle: vim, git, gcc на смартфон
+>>>>>>> ea3a599111ab550bcc137ce17d89b1ac06063272
 description: Установка и настройка Termux
 image: https://termux.com/files/htop_framed.png
 category: coding
