@@ -1,12 +1,13 @@
-date: 2021-07-24 12:00:00                                                 
-layout: post    
-title: Мобильный кодинг с Termux                                   
-subtitle: vim, git, gcc на смартфон    
+---
+date: 2021-07-24 12:00:00
+layout: post
+title: Мобильный кодинг с Termux
+subtitle: vim, git, gcc на смартфон
 description: Установка и настройка Termux
-image: https://termux.com/files/htop_framed.png                                                                                                  
-category: coding                                                            
-tags:                                                                     
-  - coding                                                                 
+image: https://termux.com/files/htop_framed.png
+category: coding
+tags
+  - coding
   - termux
   - android
   - ish
